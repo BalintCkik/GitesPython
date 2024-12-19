@@ -1,2 +1,2 @@
-# ezzel gyakoroljuk a git-et
-print("gites")
+t=[2, 0, 4, 1, 15, 11, 22, 14, 16, 2, 0, 31]
+n=t(len)
