@@ -20,7 +20,7 @@ tb=[2, 0, 4, 1, 15, 11, 100, 14, 16, 2, 0, 109]
 max=tb[0]
 fel=tb[i]-max
 print(tb)
-for i in range(n):
+
 
         
 print(i,". megállóban voltak a legtöbben!")
