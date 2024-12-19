@@ -1,4 +1,5 @@
-t=[2, 0, 4, 1, 15, 11, 22, 14, 16, 2, 0, 31]
+#Szabó Bálint, Varga Zoltán 10.b, Python első beadandó
+t=[]
 n=len(t)
 print(t)
 poz=0
@@ -17,7 +18,9 @@ if(poz<neg):
 
 tb=[2, 0, 4, 1, 15, 11, 100, 14, 16, 2, 0, 109]
 max=tb[0]
+fel=tb[i]-max
+print(tb)
 for i in range(n):
-    if(tb[i]>max):
-        max=tb[i]
+
+        
 print(i,". megállóban voltak a legtöbben!")
